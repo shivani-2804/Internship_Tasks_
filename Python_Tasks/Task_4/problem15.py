@@ -1,5 +1,5 @@
 # Problem Name: Word Order
-# HackerRank Link: https://hackerrank.com
+# HackerRank Link: https://www.hackerrank.com/challenges/word-order/problem
 
 if __name__ == '__main__':
     n = int(input())

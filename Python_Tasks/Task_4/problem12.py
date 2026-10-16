@@ -1,5 +1,5 @@
 # Problem Name: Introduction to Sets
-# HackerRank Link: https://hackerrank.com
+# HackerRank Link: https://www.hackerrank.com/challenges/py-introduction-to-sets/problem
 
 def average(array):
     distinct_elements = set(array)

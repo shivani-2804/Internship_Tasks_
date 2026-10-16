@@ -1,5 +1,5 @@
 # Problem Name: Set .add()
-# HackerRank Link: https://hackerrank.com
+# HackerRank Link: https://www.hackerrank.com/challenges/py-set-add/problem
 
 if __name__ == '__main__':
     n = int(input())

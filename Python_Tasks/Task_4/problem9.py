@@ -1,5 +1,5 @@
 # Problem Name: Mutations
-# HackerRank Link: https://hackerrank.com
+# HackerRank Link: https://www.hackerrank.com/challenges/python-mutations/problem
 
 def mutate_string(string, position, character):
     string_list = list(string)

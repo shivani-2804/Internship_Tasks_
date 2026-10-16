@@ -1,5 +1,5 @@
 # Problem Name: Lists
-# HackerRank Link: https://hackerrank.com
+# HackerRank Link: https://www.hackerrank.com/challenges/python-lists/problem
 
 if __name__ == '__main__':
     N = int(input())

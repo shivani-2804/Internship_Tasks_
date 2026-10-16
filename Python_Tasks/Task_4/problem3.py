@@ -1,5 +1,5 @@
 # Problem Name: Python Division
-# HackerRank Link: https://hackerrank.com
+# HackerRank Link: https://www.hackerrank.com/challenges/python-division/problem
 
 if __name__ == '__main__':
     a = int(input())

@@ -1,5 +1,5 @@
 # Problem Name: Symmetric Difference
-# HackerRank Link: https://hackerrank.com
+# HackerRank Link: https://www.hackerrank.com/challenges/symmetric-difference/problem
 
 if __name__ == '__main__':
     m = int(input())

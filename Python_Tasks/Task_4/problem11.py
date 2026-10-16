@@ -1,5 +1,5 @@
 # Problem Name: String Validators
-# HackerRank Link: https://hackerrank.com
+# HackerRank Link: https://www.hackerrank.com/challenges/string-validators/problem
 
 if __name__ == '__main__':
     s = input()
