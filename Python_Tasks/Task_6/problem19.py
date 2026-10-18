@@ -1,0 +1,15 @@
+Problem Name: Company Logo
+HackerRank Link:https://www.hackerrank.com/challenges/most-commons/problem
+
+
+from collections import Counter
+
+if __name__ == '__main__':
+    s = input()
+    
+    char_counts = Counter(s)
+    
+    sorted_chars = sorted(char_counts.items(), key=lambda x: (-x[1], x[0]))
+    
+    for char, count in sorted_chars[:3]:
+        print(f"{char} {count}")
